@@ -45,7 +45,7 @@ export const projects: Project[] = [
     id: "proj1",
     title: "Neural Noir",
     description:
-      "An AI-driven interrogation game where players get interrogated by two AI detective. The AI can respond to the player's speech and biometric input.",
+      "An AI-driven interrogation game where players get interrogated by two AI detective. The detectives can respond to the player's speech and biometric input.",
     technologies: ["Python", "Panda3D", "OpenAI API", "Sqlite", "Brainflow SDK"],
     imageUrl: "/images/neural-noir.png",
     link: "https://neural-noir.vercel.app/",
