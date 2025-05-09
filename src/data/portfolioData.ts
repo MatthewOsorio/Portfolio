@@ -4,7 +4,7 @@ import { SocialLink, Experience, Project, Education } from "../types";
 export const personalInfo = {
   name: "Matthew Osorio",
   title: "Software Engineer",
-  bio: "Software engineer with a focus on building intuitive and efficient software solutions. I love solving complex problems and creating elegant solutions.",
+  bio: "Software engineer with a focus on building intuitive and efficient software. I love solving complex problems and creating elegant solutions.",
 };
 
 // Social media links
