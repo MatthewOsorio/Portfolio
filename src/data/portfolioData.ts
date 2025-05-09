@@ -78,7 +78,7 @@ export const education: Education[] = [
   {
     id: "edu1",
     institution: "University of Nevada, Reno",
-    degree: "Master of Computer Science",
+    degree: "Master of Computer Science and Engineering",
     period: "2025 - Present",
     description:
       "Specializing in Software Engineering and AI applications in software solutions.",
@@ -86,7 +86,7 @@ export const education: Education[] = [
   {
     id: "edu2",
     institution: "University of Nevada, Reno",
-    degree: "Bachelor of Science in Computer Science",
+    degree: "Bachelor of Science in Computer Science and Engineering",
     period: "2021 - 2025",
     description:
       "Coursework included: Software Engineering, Design Patterns, Testing & DevOps, Database Management Systems, Analysis of Algorithms, Data Structures.",
