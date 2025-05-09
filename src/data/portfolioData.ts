@@ -16,7 +16,7 @@ export const socialLinks: SocialLink[] = [
   },
   {
     platform: "LinkedIn",
-    url: "www.linkedin.com/in/matt-osorio",
+    url: "https://linkedin.com/in/matt-osorio",
     icon: "Linkedin",
   },
   {
