@@ -19,7 +19,7 @@ function App() {
 
   useEffect(() => {
     localStorage.setItem('darkMode', darkMode.toString());
-    document.title = "Alex Morgan | Software Engineer";
+    document.title = "Matthew Osorio | Software Engineer";
     
     if (darkMode) {
       document.body.classList.add('dark-mode');
