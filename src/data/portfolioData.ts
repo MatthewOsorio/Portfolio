@@ -69,7 +69,7 @@ export const projects: Project[] = [
     technologies: ["Python", "Tkinter", "OpenAI API", "Pyshark"],
     imageUrl:
       "/images/netgpt.png",
-    github: "https://github.com/username/project3",
+    github: "https://github.com/MatthewOsorio/NETGPT",
   },
 ];
 
@@ -81,7 +81,7 @@ export const education: Education[] = [
     degree: "Master of Computer Science and Engineering",
     period: "2025 - Present",
     description:
-      "Specializing in Software Engineering and AI applications in software solutions.",
+      "Specializing in Software Engineering and AI applications.",
   },
   {
     id: "edu2",
