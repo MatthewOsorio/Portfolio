@@ -51,7 +51,7 @@ const LeftSection: React.FC<LeftSectionProps> = ({ darkMode, toggleDarkMode }) =
       <div className="flex flex-col space-y-4 mb-12">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight">
           {personalInfo.name}
-          <a href="https://matt-osorio.vercel.app/BROKEN-PAGE"></a>
+          <a href="https://unr.edu"></a>
         </h1>
         <h2 className={`text-xl md:text-2xl font-medium ${darkMode ? 'text-stone-400' : 'text-stone-600'}`}>
           {personalInfo.title}
